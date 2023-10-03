@@ -47,7 +47,6 @@ To utilize the animal detection model, follow these steps:
   ```
 3. Launch the Streamlit website:
 
-   Note: Streamlit website will be added
   ```bash
   streamlit run app.py
   ```
@@ -60,6 +59,7 @@ Easy-to-use interface provided through the Streamlit website.
 
 ## Demo
 
-Note: 
-Demo content will be added to this README in the future. Stay tuned for updates!
+!["Image of the streamlit website"](uploaded_data/image/Demo.png)
+ 
+
    
