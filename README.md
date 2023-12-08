@@ -41,16 +41,19 @@ To utilize the animal detection model, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    ```
+
 2. Navigate to the project directory:
    
-   ```bash
+  ```bash
   cd AnimalDetection
   ```
+
 3. Launch the Streamlit website:
 
   ```bash
   streamlit run app.py
   ```
+
 4. Follow the instructions on the Streamlit website to detect animals.
 
 
